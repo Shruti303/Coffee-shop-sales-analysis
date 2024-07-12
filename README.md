@@ -4,17 +4,17 @@ Objective :The primary objective of this project is to conduct a comprehensive a
 
 What we will analysis in this project:
 
-How do sales vary by day of the week and hour of the day?
+*  How do sales vary by day of the week and hour of the day?
 
-Are there any peak times for sales activity?
+*  Are there any peak times for sales activity?
 
-What is the total sales revenue for each month?
+*  What is the total sales revenue for each month?
 
-How do sales vary across different store locations?
+*  How do sales vary across different store locations?
 
-What is the average price/order per person?
+*  What is the average price/order per person?
 
-Which products are the best – selling in terms of quantity and revenue ?
+*  Which products are the best – selling in terms of quantity and revenue ?
 
-How do sales vary by product category and type?
+*  How do sales vary by product category and type?
 
